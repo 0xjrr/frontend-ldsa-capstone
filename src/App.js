@@ -6,7 +6,7 @@ function App() {
     <>
       <ul>
         <li>
-          <h1>LDSA Capstone form app</h1>
+          <h1>Capstone model app</h1>
         </li>
         <li className='elem-github-logo'>
           <a href="https://github.com/0xjrr/">
